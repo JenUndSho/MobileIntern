@@ -1,0 +1,6 @@
+.allure/
+.idea/
+build/
+target/
+*.iml
+src/test/resources/
